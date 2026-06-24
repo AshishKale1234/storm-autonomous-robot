@@ -14,7 +14,7 @@ Team 12 (**TREBUCHET**) achieved full autonomous operation across multiple compl
 
 | Front | Side | Top |
 |:---:|:---:|:---:|
-| ![Front view](images/storm-front.jpeg) | ![Side view](images/storm-side.jpeg) | ![Top view](images/storm-top.jpeg) |
+| ![Side view](images/storm-front.jpeg) | ![Top view](images/storm-side.jpeg) | ![Front view](images/storm-top.jpeg) |
 
 ---
 

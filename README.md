@@ -191,8 +191,6 @@ storm-autonomous-robot/
 
 ## Team
 
-| Name |
-|---|---|
 | Ashish Kale |
 | Sukesh Ranganathan | 
 | Manu Vazhunnavar | 

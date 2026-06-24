@@ -12,7 +12,7 @@ The STORM (Send Teams Orbs to Remain Monarchs) competition places two robots on 
 
 Team 12 (**TREBUCHET**) achieved full autonomous operation across multiple complete 2:30 runs: correct navigation to all four junctions, accurate IR classification, and consistent ball delivery into opponent buckets.
 
-| Front | Side | Top |
+| Side | Top | Front |
 |:---:|:---:|:---:|
 | ![Side view](images/storm-front.jpeg) | ![Top view](images/storm-side.jpeg) | ![Front view](images/storm-top.jpeg) |
 

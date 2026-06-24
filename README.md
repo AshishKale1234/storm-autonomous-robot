@@ -191,12 +191,12 @@ storm-autonomous-robot/
 
 ## Team
 
-| Name | Role |
+| Name |
 |---|---|
-| Ashish Kale | Software Lead — FSM, PD line following, launch state machine, IR classification, serial protocol, firmware integration |
-| Sukesh Ranganathan | Mechanical Lead — chassis design and assembly |
-| Manu Vazhunnavar | Launcher subsystem — flywheel and hopper |
-| Pritam Ghoshal | FSM design and logic |
-| Jaemin Cho | IR sensing circuits |
+| Ashish Kale |
+| Sukesh Ranganathan | 
+| Manu Vazhunnavar | 
+| Pritam Ghoshal | 
+| Jaemin Cho | 
 
 **Course:** ME 588 Mechatronics, Prof. Laura Blumenschein | Purdue University | Spring 2026
